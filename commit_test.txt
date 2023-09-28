@@ -1,0 +1,4 @@
+1. 测试本地 commit 之后，延迟 push 到 GitHub，那么 GitHub 显示的 commit_date 是本地 commit 的时间还是 push到 GitHub 的时间呢
+-- 经过测试发现，GitHub 上面显示的时间就是本地的提交时间
+
+2. 接下来测试 在本地提交一个 commit 之后不直接 push 到 GitHub，而是延迟 push 到 GitHub，看第三方服务获取到该 commit 的情况

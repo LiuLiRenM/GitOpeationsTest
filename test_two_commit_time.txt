@@ -1,0 +1,1 @@
+多个开发人员，如果有开发人员在本地commit了，但是没有push到GitHub上面，然后另一个开发人员在之后push了一个commit上去，那么GitHub对于这两次的commit是如何展示的？
